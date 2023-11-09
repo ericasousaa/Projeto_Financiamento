@@ -1,6 +1,6 @@
 # Sistema de Simulação de Financiamento de imóveis para um banco
 
-Projeto que fiz na faculdade usando conceitos de Programação Orientada a Objetos e Java.‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎   O código funciona com sistemas de financiamento para 3 opções:
+Projeto que fiz na faculdade usando conceitos de Programação Orientada a Objetos e Java.‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ O código funciona com sistemas de financiamento para 3 opções:
 `Apartamento` , `Casa` e `Terreno`.
 
 `ETAPA 1`・Nessa fase é pedido para digitar um número referente a qual tipo de financiamento o usuário prefere.
